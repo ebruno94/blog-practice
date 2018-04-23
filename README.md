@@ -1,7 +1,7 @@
 # Blog Practice
 
 
-#### Off-school blog practice with HTML and CSS 4/20/2018
+#### Off-school blog practice with HTML and CSS 01/03/2018
 
 #### By **Ernest Bruno**
 
